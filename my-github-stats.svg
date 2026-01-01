@@ -35,7 +35,7 @@
   </text>
 
   <text x="470" y="30" font-size="14" text-anchor="end">
-    <tspan fill="gray" id="update-date">2025-12-31 01:14 UTC</tspan>
+    <tspan fill="gray" id="update-date">2026-01-01 01:20 UTC</tspan>
   </text>
 
   <line x1="5" y1="35" x2="475" y2="35" stroke="gray" stroke-width="1"/>
@@ -60,7 +60,7 @@
     <text x="27" y="10" font-size="0" fill="black" dominant-baseline="middle">
       <tspan id="commit" font-size="16">2295</tspan>
       <tspan id="text-commit-0" font-size="16" class="color-gray" xml:space="preserve"> total commits(</tspan>
-      <tspan id="commit-year" font-size="16">1573</tspan>
+      <tspan id="commit-year" font-size="16">0</tspan>
       <tspan id="text-commit-1" font-size="16" class="color-gray" xml:space="preserve"> this year)</tspan>
     </text>
   </g>
