@@ -35,7 +35,7 @@
   </text>
 
   <text x="470" y="30" font-size="14" text-anchor="end">
-    <tspan fill="gray" id="update-date">2026-08-24 01:05 UTC</tspan>
+    <tspan fill="gray" id="update-date">2026-08-25 01:04 UTC</tspan>
   </text>
 
   <line x1="5" y1="35" x2="475" y2="35" stroke="gray" stroke-width="1"/>
@@ -45,9 +45,9 @@
     <text x="27" y="10" font-size="16" fill="black" dominant-baseline="middle">
       <tspan id="text-repo-total" class="color-gray"/>
       <tspan id="repo-total"/>
-      <tspan id="repo-pub">18</tspan>
+      <tspan id="repo-pub">17</tspan>
       <tspan id="text-repo-pub" class="color-gray">public</tspan>
-      <tspan id="repo-pri">19</tspan>
+      <tspan id="repo-pri">20</tspan>
       <tspan id="text-repo-pri" class="color-gray">private</tspan>
       <tspan id="repo-col">6</tspan>
       <tspan id="text-repo-col" class="color-gray">collabo</tspan>
